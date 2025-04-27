@@ -350,7 +350,7 @@ return 0;
 }
 ```
 Output:
-![image](https://github.com/user-attachments/assets/c6ca76c6-4717-4851-97f6-7774f7329160)
+![image](https://github.com/user-attachments/assets/68b80b3b-f57b-4908-8737-fed01cc6be32)
 
 Result:
 Thus, the program is verified successfully.
