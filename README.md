@@ -239,4 +239,3 @@ Output:
 
 Result: 
 Thus, the function that deletes a given element from a linked list is verified successfully.
-
